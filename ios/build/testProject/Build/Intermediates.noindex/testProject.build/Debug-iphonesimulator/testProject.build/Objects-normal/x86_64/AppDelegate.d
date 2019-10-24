@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/testProject/AppDelegate.m \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/testProject/AppDelegate.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/React-Core/React/RCTBundleURLProvider.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/AppCenterReactNativeShared/AppCenterReactNativeShared/AppCenterReactNativeShared.framework/Modules/module.modulemap \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/AppCenterReactNativeShared/AppCenterReactNativeShared/AppCenterReactNativeShared.framework/Headers/AppCenterReactNativeShared.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/appcenter/AppCenterReactNative.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/appcenter-analytics/AppCenterReactNativeAnalytics.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/appcenter-crashes/AppCenterReactNativeCrashes.h \
+  /Users/brody.robins/Desktop/Projects/React-Native/testProject/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h
