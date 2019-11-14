@@ -145,5 +145,8 @@
     <orderEntry type="module" module-name="appcenter" />
     <orderEntry type="module" module-name="appcenter-analytics" />
     <orderEntry type="module" module-name="appcenter-crashes" />
+    <orderEntry type="module" module-name="appcenter" />
+    <orderEntry type="module" module-name="appcenter-analytics" />
+    <orderEntry type="module" module-name="appcenter-crashes" />
   </component>
 </module>
